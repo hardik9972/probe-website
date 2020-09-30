@@ -1,3 +1,4 @@
+Amazing project.
 Clone project:
 ```
 git clone --recursive https://github.com/UNINETT/probe-website.git
